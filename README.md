@@ -14,47 +14,54 @@ A modern, role-based healthcare platform to manage appointments, consultations, 
 
 ## 🛠️ Tech Stack
 
-**Frontend (React + Vite)**  
-`React.js` • `Tailwind CSS` • `React Router DOM` • `Axios` • `Toastify`
+### 🧑‍💻 Frontend (Patient & Doctor)
 
-**Admin Panel**  
-`React.js` • `Redux Toolkit` • `Material UI` • `Chart.js`
-
-**Backend**  
-`Node.js` • `Express.js` • `MongoDB + Mongoose` • `JWT` • `Razorpay` • `Stripe` • `Cloudinary`
-
-**Database:** `MongoDB Atlas`  
-**Deployment:** `Render` (for frontend & admin)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)  
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)  
+![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 ---
 
----
+### 🛠️ Admin Panel
 
-## ✨ Key Features
-
-### 👤 Patient
-- Secure signup/login
-- Profile & medical history
-- Book, reschedule, or cancel appointments
-- Online payment (Stripe / Razorpay)
-- View/download prescriptions
-
-### 🧑‍⚕️ Doctor
-- Profile setup & login
-- Define availability
-- Manage appointments
-- Upload prescriptions
-- Earnings dashboard
-
-### 🧑‍💼 Admin
-- Approve/manage doctors
-- Oversee appointments & users
-- View analytics (charts, reports)
-- Monitor transactions
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)  
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
+![Material UI](https://img.shields.io/badge/-MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)  
+![Recharts](https://img.shields.io/badge/-Recharts-FF4444?style=for-the-badge&logo=recharts&logoColor=white)
 
 ---
 
-## ⚙️ How to Run Locally
+### 🧠 Backend
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Mongoose](https://img.shields.io/badge/-Mongoose-800000?style=for-the-badge)  
+![JWT](https://img.shields.io/badge/-JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+---
+
+### 💳 Payments & Media
+
+![Razorpay](https://img.shields.io/badge/-Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)  
+![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)  
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+---
+
+### ☁️ Deployment
+
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)  
+![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+---
+
+
+
+
 
 1️⃣ Clone the repository  
 ```bash
