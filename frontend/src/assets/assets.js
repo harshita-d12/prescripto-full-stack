@@ -37,6 +37,8 @@ import Gynecologist from './Gynecologist.svg'
 import Neurologist from './Neurologist.svg'
 import Pediatricians from './Pediatricians.svg'
 
+export const url = 'https://prescripto-backend-yr8r.onrender.com'
+
 
 export const assets = {
     appointment_img,
