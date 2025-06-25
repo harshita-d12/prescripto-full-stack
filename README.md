@@ -1,4 +1,4 @@
-# 🩺 Prescripto – Full-Stack Healthcare Appointment & Management System
+# 🩺 Prescripto – Full-Stack Clinic Appointment & Management System
 
 ![Prescripto Banner](https://img.shields.io/badge/Built%20With-MERN-blueviolet?style=for-the-badge)  
 A modern, role-based healthcare platform to manage appointments, consultations, and payments – built using the **MERN stack** with separate interfaces for Patients, Doctors, and Admins.
