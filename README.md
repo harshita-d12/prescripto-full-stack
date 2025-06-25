@@ -43,14 +43,6 @@ A modern, role-based healthcare platform to manage appointments, consultations, 
 
 ---
 
-### 💳 Payments & Media
-
-![Razorpay](https://img.shields.io/badge/-Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)  
-![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)  
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
----
-
 ### ☁️ Deployment
 
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)  
@@ -62,10 +54,5 @@ A modern, role-based healthcare platform to manage appointments, consultations, 
 
 
 
-
-1️⃣ Clone the repository  
-```bash
-git clone https://github.com/harshita-d12/prescripto-full-stack.git
-cd prescripto-full-stack
 
 
