@@ -18,8 +18,7 @@ A modern, role-based healthcare platform to manage appointments, consultations, 
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)  
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)   
 ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 ---
@@ -28,8 +27,6 @@ A modern, role-based healthcare platform to manage appointments, consultations, 
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)  
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
-![Material UI](https://img.shields.io/badge/-MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)  
-![Recharts](https://img.shields.io/badge/-Recharts-FF4444?style=for-the-badge&logo=recharts&logoColor=white)
 
 ---
 
