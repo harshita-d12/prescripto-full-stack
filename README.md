@@ -7,8 +7,8 @@ A modern, role-based healthcare platform to manage appointments, consultations, 
 
 ## 🌐 Live Demo
 
-🔗 **Patient/Doctor Portal:** [(https://prescripto-frontend-es6c.onrender.com)]  
-🔗 **Admin Panel:** [(https://prescripto-admin-gdmq.onrender.com)]
+🔗 **Patient/Doctor Portal:** [https://prescripto-frontend-es6c.onrender.com]  
+🔗 **Admin Panel:** [https://prescripto-admin-gdmq.onrender.com]
 
 ---
 
